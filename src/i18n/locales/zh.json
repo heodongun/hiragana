@@ -1,0 +1,85 @@
+{
+  "common": {
+    "appName": "平假名大师",
+    "next": "下一个",
+    "correct": "正确",
+    "incorrect": "错误",
+    "clickToFlip": "点击翻转",
+    "settings": "设置",
+    "language": "语言",
+    "progress": "进度",
+    "home": "首页",
+    "learn": "学习",
+    "flashcards": "闪卡",
+    "quiz": "测验",
+    "reset": "重置",
+    "cancel": "取消",
+    "save": "保存"
+  },
+  "home": {
+    "welcome": "欢迎使用平假名大师",
+    "description": "通过互动闪卡和间隔重复学习掌握平假名",
+    "startLearning": "开始学习",
+    "practiceFlashcards": "练习闪卡",
+    "testKnowledge": "测试知识",
+    "viewProgress": "查看进度",
+    "quickTips": "快速提示",
+    "practiceDaily": "每天练习几分钟",
+    "focusReview": "专注于需要复习的字符",
+    "writeByHand": "尝试手写字符",
+    "useBothModes": "同时使用识别和回忆练习"
+  },
+  "learn": {
+    "title": "学习平假名",
+    "description": "从基本平假名开始，然后进展到浊音和组合",
+    "basic": "基本",
+    "dakuten": "浊音",
+    "combination": "组合",
+    "basicDescription": "首先掌握这些基本字符",
+    "dakutenDescription": "学习带浊点和半浊点的字符",
+    "combinationDescription": "学习组合字符（拗音）"
+  },
+  "flashcards": {
+    "title": "闪卡",
+    "description": "使用互动闪卡练习平假名",
+    "reviewMode": "复习模式",
+    "practiceMode": "练习模式",
+    "allCharacters": "所有字符",
+    "basicCharacters": "基本字符",
+    "dakutenCharacters": "浊音字符",
+    "combinationCharacters": "组合字符",
+    "cardCount": "第 {{current}} 张，共 {{total}} 张"
+  },
+  "quiz": {
+    "title": "平假名测验",
+    "description": "通过选择题测试你的平假名知识",
+    "settings": "测验设置",
+    "mode": "测验模式",
+    "difficulty": "难度",
+    "start": "开始测验",
+    "kanaToRomaji": "假名 → 罗马字",
+    "romajiToKana": "罗马字 → 假名",
+    "easy": "简单",
+    "medium": "中等",
+    "hard": "困难"
+  },
+  "settings": {
+    "title": "设置",
+    "description": "自定义你的学习体验",
+    "languageSettings": "语言设置",
+    "selectLanguage": "选择语言",
+    "displaySettings": "显示设置",
+    "fontPreference": "字体偏好",
+    "enableAnimations": "启用动画",
+    "showRomaji": "显示罗马字",
+    "darkMode": "深色模式",
+    "learningPreferences": "学习偏好",
+    "about": "关于"
+  },
+  "feedback": {
+    "correct": "正确！",
+    "incorrect": "错误",
+    "goodJob": "做得好！",
+    "tryAgain": "再试一次"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "common": {
+    "appName": "Hiragana Master",
+    "next": "Next",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "clickToFlip": "Click to flip",
+    "settings": "Settings",
+    "language": "Language",
+    "progress": "Progress",
+    "home": "Home",
+    "learn": "Learn",
+    "flashcards": "Flashcards",
+    "quiz": "Quiz",
+    "reset": "Reset",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "home": {
+    "welcome": "Welcome to Hiragana Master",
+    "description": "Master hiragana with interactive flashcards and spaced repetition",
+    "startLearning": "Start Learning",
+    "practiceFlashcards": "Practice Flashcards",
+    "testKnowledge": "Test Your Knowledge",
+    "viewProgress": "View Progress",
+    "quickTips": "Quick Tips",
+    "practiceDaily": "Practice a few minutes each day",
+    "focusReview": "Focus on characters marked for review",
+    "writeByHand": "Try writing characters by hand",
+    "useBothModes": "Use both recognition and recall practice"
+  },
+  "learn": {
+    "title": "Learn Hiragana",
+    "description": "Start with basic hiragana, then progress to dakuten and combinations",
+    "basic": "Basic",
+    "dakuten": "Dakuten",
+    "combination": "Combination",
+    "basicDescription": "Master these fundamental characters first",
+    "dakutenDescription": "Learn characters with dakuten and handakuten",
+    "combinationDescription": "Learn combination characters (yōon)"
+  },
+  "flashcards": {
+    "title": "Flashcards",
+    "description": "Practice hiragana with interactive flashcards",
+    "reviewMode": "Review Mode",
+    "practiceMode": "Practice Mode",
+    "allCharacters": "All Characters",
+    "basicCharacters": "Basic Characters",
+    "dakutenCharacters": "Dakuten Characters",
+    "combinationCharacters": "Combination Characters",
+    "cardCount": "Card {{current}} of {{total}}"
+  },
+  "quiz": {
+    "title": "Hiragana Quiz",
+    "description": "Test your hiragana knowledge with multiple-choice quizzes",
+    "settings": "Quiz Settings",
+    "mode": "Quiz Mode",
+    "difficulty": "Difficulty",
+    "start": "Start Quiz",
+    "kanaToRomaji": "Kana → Romaji",
+    "romajiToKana": "Romaji → Kana",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard"
+  },
+  "settings": {
+    "title": "Settings",
+    "description": "Customize your learning experience",
+    "languageSettings": "Language Settings",
+    "selectLanguage": "Select Language",
+    "displaySettings": "Display Settings",
+    "fontPreference": "Font Preference",
+    "enableAnimations": "Enable animations",
+    "showRomaji": "Show romaji",
+    "darkMode": "Dark mode",
+    "learningPreferences": "Learning Preferences",
+    "about": "About"
+  },
+  "feedback": {
+    "correct": "Correct!",
+    "incorrect": "Incorrect",
+    "goodJob": "Good job!",
+    "tryAgain": "Try again"
+  }
+}
